@@ -1,6 +1,6 @@
 
 
-![banner](https://github.com/DHenson4/DHenson4/assets/113914874/3030f57e-dc3d-4dec-889f-eddcf784e334)
+<img align="center" width="1200" src="https://github.com/DHenson4/DHenson4/assets/113914874/3030f57e-dc3d-4dec-889f-eddcf784e334"/>
 
 
 <h3 align="left">About Me:</h3>
@@ -21,3 +21,4 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhenson4&" alt="dhenson4" /></p>
+
